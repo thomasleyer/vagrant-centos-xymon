@@ -1,3 +1,7 @@
 Installing xymon in a vagrant centos-box for testing purposes.
 
+vagrant up
+vagrant ssh -- -X 
+firefox http://localhost/xymon/
+
 
